@@ -1,6 +1,7 @@
 var password = document.getElementById('pass');
 
 document.getElementById('heartButt').onclick = function() {
+	this.style.display = "none";
 	password.style.display = "block";
 }
 
