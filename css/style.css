@@ -1,13 +1,17 @@
 @media (max-width: 767px) {
   #heartButt {
     bottom: 2%;
-    width: 50px; }
+    width: 50px;}
 
   #pass {
     font-size: 20px !important; }
 
   main {
     height: 100%; }
+
+  main #text {
+    text-align: center;
+  }
 
   #title {
     font-size: 55px; }
